@@ -44,12 +44,12 @@ body {
     background: url(../img/logo.png) no-repeat;
     position: absolute;
     left: 0px;
-    top: 19%;
+    /* top: 19%; */
     /* width: 100%; */
     text-align: center;
     height: 100%;
     margin: 0px;
-    background-size: contain;
+    background-size: cover;
     /* background-position: 101%; */
     right: 0px;
     background-position-x: 50%;
